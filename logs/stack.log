@@ -1,0 +1,25 @@
+2025-06-13 23:33:23 INFO: Stack size is 1 | request #18
+2025-06-13 23:33:23 DEBUG: Stack content (first == top): [2] | request #18
+2025-06-13 23:33:23 INFO: Adding total of 2 argument(s) to the stack | Stack size: 3 | request #19
+2025-06-13 23:33:23 DEBUG: Adding arguments: 2, 3 | Stack size before 1 | stack size after 3 | request #19
+2025-06-13 23:33:23 INFO: Stack size is 3 | request #21
+2025-06-13 23:33:23 DEBUG: Stack content (first == top): [3, 2, 2] | request #21
+2025-06-13 23:33:23 INFO: Stack size is 3 | request #23
+2025-06-13 23:33:23 DEBUG: Stack content (first == top): [3, 2, 2] | request #23
+2025-06-13 23:33:23 INFO: Performing operation fact. Result is 6 | stack size: 2 | request #24
+2025-06-13 23:33:23 DEBUG: Performing operation: fact(3) = 6 | request #24
+2025-06-13 23:33:23 INFO: Performing operation minus. Result is 0 | stack size: 0 | request #25
+2025-06-13 23:33:23 DEBUG: Performing operation: minus(2, 2) = 0 | request #25
+2025-06-13 23:33:23 INFO: Adding total of 2 argument(s) to the stack | Stack size: 2 | request #26
+2025-06-13 23:33:23 DEBUG: Adding arguments: 8, 5 | Stack size before 0 | stack size after 2 | request #26
+2025-06-13 23:33:23 INFO: Performing operation minus. Result is -3 | stack size: 0 | request #27
+2025-06-13 23:33:23 DEBUG: Performing operation: minus(5, 8) = -3 | request #27
+2025-06-13 23:33:24 INFO: Adding total of 2 argument(s) to the stack | Stack size: 2 | request #29
+2025-06-13 23:33:24 DEBUG: Adding arguments: 2, 3 | Stack size before 0 | stack size after 2 | request #29
+2025-06-13 23:33:24 INFO: History: So far total 6 stack actions | request #30
+2025-06-13 23:33:24 INFO: Performing operation abs. Result is 3 | stack size: 1 | request #31
+2025-06-13 23:33:24 DEBUG: Performing operation: abs(3) = 3 | request #31
+2025-06-13 23:33:24 INFO: Removing total 1 argument(s) from the stack | Stack size: 0 | request #32
+2025-06-13 23:33:24 INFO: Stack size is 0 | request #33
+2025-06-13 23:33:24 DEBUG: Stack content (first == top): [] | request #33
+2025-06-13 23:33:24 INFO: History: So far total 7 stack actions | request #34
